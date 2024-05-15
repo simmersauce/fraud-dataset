@@ -28,7 +28,7 @@ ORDER BY CASE month
 ## Number of Claim per accident location 
 
 SELECT AccidentArea,
-COUNT (AccidentArea), 
+COUNT (AccidentArea) AS Count,
 FROM `studied-bridge-423309-m7.Fraud_dataset.Fraud_dataset` 
 GROUP BY 1
 LIMIT 1000
