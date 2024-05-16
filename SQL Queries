@@ -1,4 +1,4 @@
-SQL Queries (SQL):
+# SQL Queries (SQL):
 
 Write SQL queries to segment the data by various demographics and claim characteristics (e.g., by accident area, age of vehicle, and type of claim).
 Perform aggregate functions to understand the concentration of claims by different categories and over time.
